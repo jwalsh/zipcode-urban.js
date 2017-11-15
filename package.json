@@ -1,6 +1,6 @@
 {
   "name": "zipcode-urban.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Indicate if a zipcode is urban",
   "main": "index.js",
   "scripts": {
