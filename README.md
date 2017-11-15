@@ -25,7 +25,7 @@ console.log('Cambridge is urban:', isUrban(02139))
 | 73301 | false | Austin |
 | 77001 | false | Houston |
 
-## Boston Validation
+### Boston Validation
 
 | zipcode | urban | city |
 | ----- | ----- | ------ |
