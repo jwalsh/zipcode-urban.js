@@ -1,0 +1,22 @@
+{
+  "name": "zipcode-urban.js",
+  "version": "1.0.0",
+  "description": "Indicate if a zipcode is urban",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwalsh/zipcode-urban.js.git"
+  },
+  "keywords": [
+    "zipcode"
+  ],
+  "author": "Jason Walsh <j@wal.sh>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwalsh/zipcode-urban.js/issues"
+  },
+  "homepage": "https://github.com/jwalsh/zipcode-urban.js#readme"
+}
